@@ -1,2 +1,3 @@
 # practice-
-first Repo
+First Repo
+This is just practice 
